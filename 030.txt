@@ -1,0 +1,9 @@
+0	android.widget.ScrollView	0	0	891	411
+2	android.widget.TextView	10	10	32	401
+2	android.widget.TextView	32	10	49	401
+2	android.widget.TextView	49	10	66	401
+2	android.widget.TextView	66	10	88	94
+2	android.widget.TextView	88	10	190	401
+2	android.widget.TextView	190	10	212	72
+2	android.widget.TextView	212	10	467	401
+2	android.widget.TextView	467	10	489	83

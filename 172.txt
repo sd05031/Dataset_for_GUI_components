@@ -1,0 +1,2 @@
+1	android.widget.EditText	10	10	58	401
+1	android.widget.EditText	58	10	106	401

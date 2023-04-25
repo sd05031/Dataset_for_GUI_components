@@ -1,0 +1,2 @@
+1	android.widget.ImageView	0	12	66	52
+2	android.widget.TextView	15	0	34	333

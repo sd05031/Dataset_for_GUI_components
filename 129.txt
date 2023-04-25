@@ -1,0 +1,2 @@
+2	android.widget.TextView	34	88	53	355
+2	android.widget.ImageButton	32	371	56	395

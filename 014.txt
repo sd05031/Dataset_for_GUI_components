@@ -1,0 +1,3 @@
+2	android.widget.ImageView	433	148	458	173
+2	android.widget.ImageView	433	193	458	218
+2	android.widget.ImageView	433	238	458	263

@@ -1,0 +1,16 @@
+1	android.widget.TableRow	0	0	25	411
+2	android.widget.TextView	0	0	25	177
+2	android.widget.TextView	4	177	21	203
+2	android.widget.TextView	4	282	21	312
+1	android.widget.TableRow	31	0	56	411
+2	android.widget.TextView	0	0	25	177
+2	android.widget.TextView	4	177	21	203
+2	android.widget.TextView	4	282	21	312
+1	android.widget.TableRow	62	0	87	411
+2	android.widget.TextView	0	0	25	177
+2	android.widget.TextView	4	177	21	203
+2	android.widget.TextView	4	282	21	312
+1	android.widget.TableRow	93	0	118	411
+2	android.widget.TextView	0	0	25	177
+2	android.widget.TextView	4	177	21	203
+2	android.widget.TextView	4	282	21	312

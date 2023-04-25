@@ -1,0 +1,12 @@
+2	android.widget.Button	0	2	64	133
+2	android.widget.Button	0	137	64	269
+2	android.widget.Button	0	273	64	405
+2	android.widget.Button	0	2	64	133
+2	android.widget.Button	0	137	64	269
+2	android.widget.Button	0	273	64	405
+2	android.widget.Button	0	2	64	133
+2	android.widget.Button	0	137	64	269
+2	android.widget.Button	0	273	64	405
+2	android.widget.Button	0	2	64	133
+2	android.widget.Button	0	137	64	269
+2	android.widget.Button	0	273	64	405

@@ -1,0 +1,2 @@
+1	com.android.layoutlib.bridge.MockView	0	0	445	411
+2	android.widget.TextView	0	0	445	411

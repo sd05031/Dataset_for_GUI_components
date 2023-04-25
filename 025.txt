@@ -1,0 +1,1 @@
+1	android.widget.ImageView	421	181	469	229

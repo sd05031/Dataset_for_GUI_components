@@ -1,0 +1,1 @@
+0	android.widget.Spinner	0	0	891	80

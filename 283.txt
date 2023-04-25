@@ -1,0 +1,1 @@
+0	android.widget.CheckBox	421	0	469	38

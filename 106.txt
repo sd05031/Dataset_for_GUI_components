@@ -1,0 +1,3 @@
+1	android.widget.Button	353	113	401	298
+1	android.widget.Button	421	96	469	314
+1	android.widget.Button	489	150	537	260

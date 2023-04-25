@@ -1,0 +1,2 @@
+2	android.widget.ImageButton	433	181	457	205
+2	android.widget.ImageButton	433	205	457	229

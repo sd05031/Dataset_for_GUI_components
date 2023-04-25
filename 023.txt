@@ -1,0 +1,6 @@
+1	android.widget.TextView	4	4	21	407
+1	android.widget.Switch	21	4	40	407
+1	android.widget.Switch	40	4	59	407
+1	android.widget.TextView	59	4	96	407
+1	android.widget.Switch	96	4	115	407
+1	android.widget.Switch	115	4	134	407

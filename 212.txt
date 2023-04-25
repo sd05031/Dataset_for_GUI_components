@@ -1,0 +1,4 @@
+0	android.widget.ScrollView	0	0	405	411
+3	android.widget.TextView	77	16	95	129
+3	android.widget.RadioGroup	50	16	174	411
+4	android.widget.RadioButton	76	0	124	395

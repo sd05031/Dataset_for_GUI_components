@@ -1,0 +1,2 @@
+1	android.widget.ProgressBar	405	181	453	229
+1	android.widget.TextView	469	136	486	274

@@ -1,0 +1,2 @@
+1	android.widget.ImageView	16	16	56	56
+1	android.widget.CheckedTextView	0	72	72	395

@@ -1,0 +1,2 @@
+1	android.widget.Button	0	305	48	353
+1	android.widget.CheckBox	0	361	48	399

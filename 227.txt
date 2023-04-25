@@ -1,0 +1,5 @@
+2	android.widget.TextView	0	183	17	212
+2	android.widget.CheckBox	0	55	48	206
+2	android.widget.CheckBox	0	226	48	335
+2	android.widget.TextView	0	49	17	348
+2	android.widget.TextView	0	0	17	401

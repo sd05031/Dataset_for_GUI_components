@@ -1,0 +1,2 @@
+1	android.widget.ProgressBar	16	16	64	64
+1	android.widget.TextView	31	80	48	137

@@ -1,0 +1,1 @@
+1	android.widget.ImageButton	370	130	520	280

@@ -1,0 +1,2 @@
+1	android.widget.ProgressBar	25	8	73	403
+1	android.widget.Button	73	178	121	233

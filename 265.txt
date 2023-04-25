@@ -1,0 +1,2 @@
+1	android.view.View	8	16	24	32
+1	android.widget.TextView	24	8	73	40

@@ -1,0 +1,4 @@
+1	android.widget.Button	18	19	66	84
+1	android.widget.Button	66	22	114	87
+1	android.widget.EditText	222	124	270	344
+2	android.widget.Button	0	0	48	119

@@ -1,0 +1,12 @@
+0	android.widget.ScrollView	0	0	891	411
+3	android.widget.ImageView	16	16	48	48
+3	android.widget.TextView	16	60	35	351
+3	android.widget.TextView	35	60	50	99
+3	android.widget.ImageButton	16	359	52	395
+4	android.widget.TextView	15	0	32	142
+4	android.widget.ImageButton	0	363	48	411
+3	android.widget.TextView	48	0	98	411
+4	android.widget.TextView	15	0	32	99
+4	android.widget.ImageButton	0	363	48	411
+3	android.widget.TextView	48	0	98	411
+3	android.widget.TextView	98	0	148	411

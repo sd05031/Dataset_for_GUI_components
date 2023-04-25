@@ -1,0 +1,5 @@
+1	android.widget.TextView	24	0	53	411
+1	android.widget.TextView	65	0	113	411
+1	android.widget.EditText	125	0	173	411
+1	android.widget.EditText	185	0	233	411
+1	android.widget.Button	257	0	281	411

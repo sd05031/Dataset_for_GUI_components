@@ -1,0 +1,2 @@
+1	android.widget.ImageView	329	125	489	285
+1	android.widget.Button	506	174	554	236

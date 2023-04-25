@@ -1,0 +1,1 @@
+0	android.widget.ProgressBar	421	181	469	229

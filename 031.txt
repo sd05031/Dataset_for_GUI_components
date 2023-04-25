@@ -1,0 +1,4 @@
+1	android.widget.TextView	48	0	91	411
+1	android.widget.TextView	103	0	127	411
+1	android.widget.TextView	127	0	156	411
+1	android.widget.TextView	156	0	891	411

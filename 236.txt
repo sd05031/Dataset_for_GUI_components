@@ -1,0 +1,4 @@
+2	android.widget.Button	5	4	53	84
+2	android.widget.Button	5	84	53	207
+2	android.widget.Button	5	4	53	151
+2	android.widget.Button	5	151	53	258

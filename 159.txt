@@ -1,0 +1,2 @@
+0	android.view.View	0	0	200	411
+0	android.widget.ImageView	0	0	40	40

@@ -1,0 +1,1 @@
+1	android.widget.TextView	10	72	70	411

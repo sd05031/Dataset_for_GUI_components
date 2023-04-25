@@ -1,0 +1,3 @@
+1	android.widget.ImageView	17	0	49	32
+1	android.widget.ImageView	49	0	81	32
+1	android.widget.ImageButton	81	0	113	32

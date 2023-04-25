@@ -1,0 +1,5 @@
+2	android.widget.TextView	16	16	40	395
+2	android.widget.ImageView	56	16	596	395
+2	android.widget.RadioGroup	612	16	708	395
+3	android.widget.RadioButton	0	0	48	379
+2	android.widget.Button	724	286	760	395

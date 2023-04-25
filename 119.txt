@@ -1,0 +1,4 @@
+2	android.widget.ImageButton	4	99	56	170
+2	android.widget.ImageButton	4	170	56	241
+2	android.widget.ImageButton	4	241	56	312
+2	android.widget.SeekBar	0	64	32	347

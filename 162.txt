@@ -1,0 +1,6 @@
+0	android.widget.ScrollView	0	0	891	411
+2	android.widget.Button	0	105	70	305
+2	android.widget.Button	70	105	140	305
+2	android.widget.Button	140	105	210	305
+2	android.widget.Button	210	105	280	305
+2	android.widget.Button	280	105	350	305

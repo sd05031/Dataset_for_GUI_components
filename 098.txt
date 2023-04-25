@@ -1,0 +1,5 @@
+0	android.widget.ScrollView	0	0	891	411
+2	android.widget.ImageView	20	130	170	280
+2	android.widget.TextView	180	0	204	411
+2	android.widget.TextView	234	0	503	411
+2	android.widget.TextView	513	0	532	411
